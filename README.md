@@ -1,1 +1,2 @@
-# 20Daysofcode
+# 30Daysofjs
+> Documenting my journey  by learning😊
