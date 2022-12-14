@@ -1,2 +1,2 @@
-# 30Daysofjs
+# 30Daysofjavascript
 > Documenting my journey  by learning😊
