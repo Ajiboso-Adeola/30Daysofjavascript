@@ -34,6 +34,8 @@ let age;
 let lastName = null
 ```
 
+---
+
 #### 5. Create datatypes.js file and use the JavaScript typeof operator to check different data types. Check the data type of each variable
 
 ```datatypes.js
@@ -44,6 +46,8 @@ console.log(typeof null) //null
 console.log(typeof undefined) //umdefined
 ```
 
+---
+
 #### 6. Declare four variables without assigning values
 
 ```js
@@ -52,6 +56,8 @@ let firstName;
 let lastName;
 let country;
 ```
+
+---
 
 #### 7. Declare four variables with assigned values
 
