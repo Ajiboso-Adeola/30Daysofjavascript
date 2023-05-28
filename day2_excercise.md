@@ -59,8 +59,26 @@ console.log(challenge.substring(0, 2));
 ### 8.Check if the string contains a word Script using includes() method
 
 ```javascript
-    let challenge = '30 Days of JavaScript'
-    console.log(challenge.includes("Script");
+let challenge = '30 Days of JavaScript'
+console.log(challenge.includes("Script");   //True
+```
+
+---
+
+### 9. Split the string into an array using split() method
+
+```javascript
+let challenge = "30 Days of JavaScript";
+
+console.log(challenge.split(" ")); //  ["30", "Days", "of", "JavaScript"]
+```
+
+---
+
+### 10. Split the string 30 Days Of JavaScript at the space using split() method
+
+```javascript
+console.log(challenge.split());
 ```
 
 ---
